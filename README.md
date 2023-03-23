@@ -6,7 +6,7 @@ Check Final Report.pdf and Presentation.pptx for basic description
 A simple video demo: https://youtu.be/gxF1DkvPFkQ
 
 
-Instruction:
+## Instruction:
 The starter program for this project is included in IMDB manager.zip. Run Mainframe.java to run the program. Videos demonstrating specific features are included in the slide.
 
 
